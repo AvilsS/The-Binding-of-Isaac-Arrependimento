@@ -1,0 +1,17 @@
+<playerforms>
+	<form id="0" name="#TRANSFORMATION_GUPPY" costume="5" tags="guppy" cache="flying tearflag" />
+	<form id="1" name="Senhor das Moscas" costume="3" tags="fly" cache="flying" />
+	<form id="2" name="Caramelo" costume="20" tags="mushroom" />
+	<form id="3" name="Serafim" costume="21" tags="angel" cache="flying" />
+	<form id="4" name="#TRANSFORMATION_BOB" costume="22" tags="bob" />
+	<form id="5" name="Cobaia" costume="23" tags="syringe" cache="speed damage" />
+	<form id="6" name="Sim Mamãe?!" costume="24" tags="mom" />
+	<form id="7" name="Siameses" costume="25" tags="baby" cache="firedelay damage" />
+	<form id="8" name="Leviatã" costume="26" tags="devil" cache="flying" />
+	<form id="9" name="Senhoras e senhores, eu me caguei!" costume="27" tags="poop" />
+	<form id="10" name="Rato de Biblioteca" costume="37" tags="book" />
+	<form id="11" name="Adulto" costume="38" />
+	<form id="12" name="Bebê aranha" costume="39" tags="spider" cache="familiars" />
+	<form id="13" name="Gigante" />
+	<!-- <form id="14" name="#UNUSED_Transform_Flight" /> -->
+</playerforms>
